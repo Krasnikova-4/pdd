@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">pdd</string>
+    <string name="textprava">Проверь, \nзнаешь ли ты \nосновные \nправила \nПДД?</string>
+    <string name="start">НАЧАТЬ</string>
+    <string name="pravo">При повороте направо \nВы должны уступить дорогу:</string>
+    <string name="text1">1. Только велосипедисту</string>
+    <string name="text2">2. Только пешеходам</string>
+    <string name="text3">3. Велосипедисту и пешеходам</string>
+    <string name="text4">4. Никому</string>
+    <string name="test">Тест на знание ПДД</string>
+    <string name="vers">версия 1.0</string>
+    <string name="well">Молодец!!! \nПрава совсем близки!\nПродолжай в том же духе!</string>
+    <string name="prog">О программе</string>
+</resources>
